@@ -1,0 +1,9 @@
+{
+  "name": "NexGen FM ERP",
+  "description": "Enterprise Facility Management ERP with AI-driven Compliance (ISO/OSHE/NFPA/BOMBA/DOSH), Architecture Generation, and ITSM workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
